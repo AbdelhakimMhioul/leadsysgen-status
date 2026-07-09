@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/leadsysgen.com.ico",
     "slug": "portal-and-api",
     "status": "down",
-    "uptime": "29.80%",
-    "uptimeDay": "29.80%",
-    "uptimeWeek": "29.80%",
-    "uptimeMonth": "29.80%",
-    "uptimeYear": "29.80%",
+    "uptime": "28.03%",
+    "uptimeDay": "28.03%",
+    "uptimeWeek": "28.03%",
+    "uptimeMonth": "28.03%",
+    "uptimeYear": "28.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/leadsysgen.com.ico",
     "slug": "webhook-ingestion-meta",
     "status": "down",
-    "uptime": "44.37%",
-    "uptimeDay": "44.37%",
-    "uptimeWeek": "44.37%",
-    "uptimeMonth": "44.37%",
-    "uptimeYear": "44.37%",
+    "uptime": "40.48%",
+    "uptimeDay": "40.48%",
+    "uptimeWeek": "40.48%",
+    "uptimeMonth": "40.48%",
+    "uptimeYear": "40.48%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-09": 0
+      "2026-07-09": 1
     }
   },
   {
@@ -45,16 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/leadsysgen.com.ico",
     "slug": "marketing-site",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "71.10%",
+    "uptimeDay": "71.10%",
+    "uptimeWeek": "71.10%",
+    "uptimeMonth": "71.10%",
+    "uptimeYear": "71.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-09": 0
+    }
   }
 ]
