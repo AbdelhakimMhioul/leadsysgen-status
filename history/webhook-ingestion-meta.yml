@@ -1,7 +1,7 @@
 url: https://leadsysgen.com/api/webhooks/meta
-status: up
-code: 403
-responseTime: 442
-lastUpdated: 2026-07-20T23:50:31.341Z
+status: down
+code: 502
+responseTime: 423
+lastUpdated: 2026-07-21T16:47:40.637Z
 startTime: 2026-07-09T09:07:59.736Z
 generator: Upptime <https://github.com/upptime/upptime>
